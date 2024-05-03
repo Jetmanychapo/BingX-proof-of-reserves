@@ -54,5 +54,5 @@ e.g.
 > python por.py hash abcdefg,BTC:1.132142,ETH:2.54469871,USDT:20384,USDC:50.3,Total:49875.12599
 
 - Verify the inclusion of the Merkle leaf, compare the result with the Merkle root
-> python por.py verify {Merkle leaf} {Merkle path}
+> python por.py verify {Merkle leaf} {Merkle path} jetmanworld 
  
