@@ -11,7 +11,7 @@ Merkle root is a straightforward mathematical technique for verifying the data o
 Users can get the Merkle leaf in BingX proof-of-reserves page, and skip to the [Verification](#Verification).
 Users can also calculate their Merkle leaf with the following steps below.
 
-### Hashed User ID Jetman92
+### Hashed User ID
 Hash your BingX UID with SHA256. All UID of the individuals will be hashed with SHA256 before generating the Merkle tree or handing it over to the auditor. This will ensure independent auditor only sees the users' hashed UID and never any personally identifiable information. 
 
 ### Combine with assets
